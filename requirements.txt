@@ -1,0 +1,11 @@
+selenium==3.141.0
+pytest>=5.2.2
+webdriver-manager==2.2.0
+allure-pytest>=2.7.1
+allure-python-commons==2.7.1
+pytest-rerunfailures>=7.0
+pytest-logger>=0.5.1
+Faker == 2.0.2
+requests == 2.22.0
+pytest-repeat == 0.8.0
+pdfminer == 20191125
