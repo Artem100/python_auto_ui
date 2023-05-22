@@ -6,6 +6,6 @@ allure-python-commons==2.7.1
 pytest-rerunfailures>=7.0
 pytest-logger>=0.5.1
 Faker == 2.0.2
-requests == 2.22.0
+requests == 2.31.0
 pytest-repeat == 0.8.0
 pdfminer == 20191125
